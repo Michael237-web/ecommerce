@@ -11,9 +11,44 @@
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&h=400&fit=crop" alt="MichaelStore Homepage" width="800">
-</p>
+### 🏠 Homepage
+![Homepage](screenshots/ecommercehome.png)
+
+### 📱 Products Page
+![Products](screenshots/ecommerceproducts.png)
+
+### 📄 Product Details
+![Product Details](screenshots/ecommerceproduct.png)
+
+### 📧 Contact Page
+![Contact Page](screenshots/ecommercecontact.png)
+
+### ℹ️ About Page
+![About Page](screenshots/ecommerceabout.png)
+
+---
+
+## 📸 Screenshots Gallery
+
+<details>
+<summary>Click to view all screenshots</summary>
+
+### 🏠 Homepage
+![Homepage](screenshots/ecommercehome.png)
+
+### 📱 Products Listing
+![Products](screenshots/ecommerceproducts.png)
+
+### 📄 Product Details
+![Product Details](screenshots/ecommerceproduct.png)
+
+### 📧 Contact Page
+![Contact Page](screenshots/ecommercecontact.png)
+
+### ℹ️ About Page
+![About Page](screenshots/ecommerceabout.png)
+
+</details>
 
 ---
 
@@ -65,7 +100,7 @@
 - **HTML5** - Semantic markup
 - **CSS3** - Custom styling with CSS variables
 - **JavaScript** - Interactive elements, slider, form validation
-- **Font Awesome/Emoji** - Iconography
+- **Emoji Icons** - Iconography
 
 ### Payment Integration
 - **M-Pesa STK Push** - Mobile money payments (Safaricom)
@@ -78,7 +113,6 @@
 - PHP 8.0 or higher
 - MySQL 5.7 or higher
 - Web server (Apache/Nginx)
-- Composer (optional)
 
 ### Step 1: Clone the Repository
 ```bash
