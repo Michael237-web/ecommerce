@@ -8,6 +8,13 @@
 > A fully functional, modern e-commerce platform built with PHP, MySQL, and pure CSS - no frameworks required!
 
 ---
+---
+
+## 🚀 Live Demo
+
+**🔗 [View Live Demo](http://michaelphotofolio.atwebpages.com/modern-e-commerce/)**
+
+---
 
 ## 📸 Screenshots
 
@@ -50,13 +57,7 @@
 
 </details>
 
----
 
-## 🚀 Live Demo
-
-**🔗 [View Live Demo](http://michaelphotofolio.atwebpages.com/modern-e-commerce/)**
-
----
 
 ## ✨ Features
 
