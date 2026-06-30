@@ -10,11 +10,7 @@
 ---
 ---
 
-## 🚀 Live Demo
 
-**🔗 [View Live Demo](http://michaelphotofolio.atwebpages.com/modern-e-commerce/)**
-
----
 
 ## 📸 Screenshots
 
@@ -54,6 +50,12 @@
 
 ### ℹ️ About Page
 ![About Page](screenshots/ecommerceabout.png)
+
+## 🚀 Live Demo
+
+**🔗 [View Live Demo](http://michaelphotofolio.atwebpages.com/modern-e-commerce/)**
+
+---
 
 </details>
 
