@@ -31,7 +31,8 @@
 
 
 ### ℹ️ About Page
-![About Page](screenshots/ecommerceabout.png)
+<img width="1351" height="643" alt="image" src="https://github.com/user-attachments/assets/20832ec4-f79c-4893-853b-af22b6e5254e" />
+
 ## 🚀 Live Demo
 
 **🔗 [View Live Demo](http://michaelphotofolio.atwebpages.com/modern-e-commerce/)**
