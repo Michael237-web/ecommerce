@@ -23,7 +23,8 @@
 
 
 ### 📄 Product Details
-![Product Details](screenshots/ecommerceproduct.png)
+<img width="1351" height="643" alt="image" src="https://github.com/user-attachments/assets/d022997d-b02c-4b4f-be3a-e5151fde8270" />
+
 
 ### 📧 Contact Page
 ![Contact Page](screenshots/ecommercecontact.png)
