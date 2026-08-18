@@ -15,8 +15,8 @@
 ## 📸 Screenshots
 
 ### 🏠 Homepage
-![Homepage](<img width="1351" height="643" alt="image" src="https://github.com/user-attachments/assets/7c1c137b-045d-48af-8660-4bf92cc0db13" />
-)
+<img width="1351" height="643" alt="image" src="https://github.com/user-attachments/assets/e5ef8c39-c7c4-4238-9f52-4cdad5f9150c" />
+
 
 ### 📱 Products Page
 ![Products](screenshots/ecommerceproducts.png)
