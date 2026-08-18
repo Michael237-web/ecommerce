@@ -19,7 +19,8 @@
 
 
 ### 📱 Products Page
-![Products](screenshots/ecommerceproducts.png)
+<img width="1351" height="643" alt="image" src="https://github.com/user-attachments/assets/f947ee7d-48bc-4a26-90f2-90ab4c01b20a" />
+
 
 ### 📄 Product Details
 ![Product Details](screenshots/ecommerceproduct.png)
