@@ -27,7 +27,8 @@
 
 
 ### 📧 Contact Page
-![Contact Page](screenshots/ecommercecontact.png)
+<img width="1351" height="643" alt="image" src="https://github.com/user-attachments/assets/191e8c3b-7042-449f-934d-8e14576eb16a" />
+
 
 ### ℹ️ About Page
 ![About Page](screenshots/ecommerceabout.png)
