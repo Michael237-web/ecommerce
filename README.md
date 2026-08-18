@@ -47,19 +47,18 @@
 <summary>Click to view all screenshots</summary>
 
 ### 🏠 Homepage
-![Homepage](screenshots/ecommercehome.png)
+<img width="1351" height="643" alt="image" src="https://github.com/user-attachments/assets/e5ef8c39-c7c4-4238-9f52-4cdad5f9150c" />
 
 ### 📱 Products Listing
-![Products](screenshots/ecommerceproducts.png)
+<img width="1351" height="643" alt="image" src="https://github.com/user-attachments/assets/f947ee7d-48bc-4a26-90f2-90ab4c01b20a" />
 
 ### 📄 Product Details
-![Product Details](screenshots/ecommerceproduct.png)
+<img width="1351" height="643" alt="image" src="https://github.com/user-attachments/assets/d022997d-b02c-4b4f-be3a-e5151fde8270" />
 
 ### 📧 Contact Page
-![Contact Page](screenshots/ecommercecontact.png)
-
+<img width="1351" height="643" alt="image" src="https://github.com/user-attachments/assets/191e8c3b-7042-449f-934d-8e14576eb16a" />
 ### ℹ️ About Page
-![About Page](screenshots/ecommerceabout.png)
+<img width="1351" height="643" alt="image" src="https://github.com/user-attachments/assets/20832ec4-f79c-4893-853b-af22b6e5254e" />
 
 
 
